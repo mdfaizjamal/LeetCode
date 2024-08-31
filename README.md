@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdfaizjamal611/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/mdfaizjamal611/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
