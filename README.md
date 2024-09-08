@@ -15,6 +15,7 @@
 | [0007-reverse-integer](https://github.com/mdfaizjamal611/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/mdfaizjamal611/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0048-rotate-image) |
+| [0382-linked-list-random-node](https://github.com/mdfaizjamal611/LeetCode/tree/master/0382-linked-list-random-node) |
 ## Matrix
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/mdfaizjamal611/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -65,4 +67,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdfaizjamal611/LeetCode/tree/master/0020-valid-parentheses) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/mdfaizjamal611/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/mdfaizjamal611/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
