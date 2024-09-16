@@ -81,19 +81,27 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdfaizjamal611/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdfaizjamal611/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdfaizjamal611/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0975-range-sum-of-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
