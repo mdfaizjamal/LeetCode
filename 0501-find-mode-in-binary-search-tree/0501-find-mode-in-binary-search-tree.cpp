@@ -11,8 +11,11 @@
  */
 class Solution {
 public:
-    unordered_map<int,int> mp;
-
+   // unordered_map<int,int> mp;
+   int currno = 0;
+   int currfreq = 0;
+   int maxfreq = 0;
+   vector<int> result;
     void dfs(TreeNode* root)
     {
         if(!root)
@@ -21,12 +24,29 @@ public:
         }
 
         dfs(root->left);
-        mp[root->val]++;
+        //mp[root->val]++;
+        
+        if(root->val == currno)
+        currfreq++;
+        else
+        {
+            currno = root->val;
+            currfreq=1;
+        }
+        if(currfreq>maxfreq)
+        {
+            result={};
+            maxfreq=currfreq;
+        }
+
+        if(currfreq == maxfreq)
+        result.push_back(root->val);
+
         dfs(root->right);
     }
     vector<int> findMode(TreeNode* root) {
         dfs(root);
-        vector<int>result;
+        /*vector<int>result;
         int maxfreq=0;
 
         for(auto &it : mp)
@@ -41,7 +61,7 @@ public:
             {
                 result.push_back(it.first);
             }
-        }
+        }*/
         return result;
     }
 };
