@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/mdfaizjamal611/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mdfaizjamal611/LeetCode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0048-rotate-image) |
+| [0735-asteroid-collision](https://github.com/mdfaizjamal611/LeetCode/tree/master/0735-asteroid-collision) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdfaizjamal611/LeetCode/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/mdfaizjamal611/LeetCode/tree/master/0735-asteroid-collision) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/mdfaizjamal611/LeetCode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
