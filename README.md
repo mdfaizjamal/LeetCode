@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/mdfaizjamal611/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mdfaizjamal611/LeetCode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0735-asteroid-collision](https://github.com/mdfaizjamal611/LeetCode/tree/master/0735-asteroid-collision) |
 ## Math
 |  |
@@ -55,6 +56,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdfaizjamal611/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/mdfaizjamal611/LeetCode/tree/master/0735-asteroid-collision) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
