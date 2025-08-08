@@ -41,6 +41,7 @@
 | [0002-add-two-numbers](https://github.com/mdfaizjamal611/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdfaizjamal611/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0206-reverse-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/mdfaizjamal611/LeetCode/tree/master/0382-linked-list-random-node) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdfaizjamal611/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
