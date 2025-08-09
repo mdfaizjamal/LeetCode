@@ -93,6 +93,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/mdfaizjamal611/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdfaizjamal611/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mdfaizjamal611/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/mdfaizjamal611/LeetCode/tree/master/0735-asteroid-collision) |
 ## Reservoir Sampling
 |  |
@@ -107,6 +108,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdfaizjamal611/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdfaizjamal611/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mdfaizjamal611/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mdfaizjamal611/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdfaizjamal611/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdfaizjamal611/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mdfaizjamal611/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mdfaizjamal611/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -129,6 +132,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdfaizjamal611/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mdfaizjamal611/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/mdfaizjamal611/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/mdfaizjamal611/LeetCode/tree/master/0975-range-sum-of-bst) |
