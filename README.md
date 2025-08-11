@@ -87,11 +87,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdfaizjamal611/LeetCode/tree/master/0011-container-with-most-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mdfaizjamal611/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mdfaizjamal611/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/mdfaizjamal611/LeetCode/tree/master/0020-valid-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mdfaizjamal611/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/mdfaizjamal611/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdfaizjamal611/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/mdfaizjamal611/LeetCode/tree/master/0735-asteroid-collision) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mdfaizjamal611/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Reservoir Sampling
 |  |
 | ------- |
