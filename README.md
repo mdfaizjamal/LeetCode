@@ -37,6 +37,7 @@
 | [0001-two-sum](https://github.com/mdfaizjamal611/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/mdfaizjamal611/LeetCode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/mdfaizjamal611/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/mdfaizjamal611/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
@@ -45,6 +46,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdfaizjamal611/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/mdfaizjamal611/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/mdfaizjamal611/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -190,4 +192,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/mdfaizjamal611/LeetCode/tree/master/1013-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mdfaizjamal611/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mdfaizjamal611/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
