@@ -96,6 +96,7 @@
 | [0012-integer-to-roman](https://github.com/mdfaizjamal611/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/mdfaizjamal611/LeetCode/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mdfaizjamal611/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/mdfaizjamal611/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Stack
 |  |
 | ------- |
@@ -200,4 +201,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mdfaizjamal611/LeetCode/tree/master/0146-lru-cache) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/mdfaizjamal611/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
