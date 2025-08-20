@@ -32,6 +32,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/mdfaizjamal611/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mdfaizjamal611/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1751-slowest-key](https://github.com/mdfaizjamal611/LeetCode/tree/master/1751-slowest-key) |
+| [1760-check-array-formation-through-concatenation](https://github.com/mdfaizjamal611/LeetCode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1762-furthest-building-you-can-reach](https://github.com/mdfaizjamal611/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mdfaizjamal611/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -63,6 +64,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mdfaizjamal611/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mdfaizjamal611/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1760-check-array-formation-through-concatenation](https://github.com/mdfaizjamal611/LeetCode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mdfaizjamal611/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mdfaizjamal611/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Linked List
