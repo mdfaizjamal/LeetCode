@@ -31,6 +31,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/mdfaizjamal611/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mdfaizjamal611/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1751-slowest-key](https://github.com/mdfaizjamal611/LeetCode/tree/master/1751-slowest-key) |
+| [1762-furthest-building-you-can-reach](https://github.com/mdfaizjamal611/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mdfaizjamal611/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
@@ -117,6 +118,7 @@
 | [0011-container-with-most-water](https://github.com/mdfaizjamal611/LeetCode/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mdfaizjamal611/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1762-furthest-building-you-can-reach](https://github.com/mdfaizjamal611/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 ## String
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | ------- |
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1762-furthest-building-you-can-reach](https://github.com/mdfaizjamal611/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 ## Merge Sort
 |  |
 | ------- |
