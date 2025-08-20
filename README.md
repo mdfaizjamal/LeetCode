@@ -22,6 +22,7 @@
 | [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/mdfaizjamal611/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mdfaizjamal611/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
@@ -46,6 +47,7 @@
 | [0141-linked-list-cycle](https://github.com/mdfaizjamal611/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/mdfaizjamal611/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0169-majority-element) |
+| [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mdfaizjamal611/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Linked List
 |  |
@@ -101,6 +103,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdfaizjamal611/LeetCode/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mdfaizjamal611/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 ## String
 |  |
 | ------- |
@@ -181,6 +184,7 @@
 | [0169-majority-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/mdfaizjamal611/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Counting
 |  |
 | ------- |
@@ -189,6 +193,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
+| [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Merge Sort
 |  |
 | ------- |
