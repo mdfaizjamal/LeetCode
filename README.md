@@ -52,6 +52,7 @@
 | [0169-majority-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0169-majority-element) |
 | [1039-find-the-town-judge](https://github.com/mdfaizjamal611/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1777-determine-if-two-strings-are-close](https://github.com/mdfaizjamal611/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mdfaizjamal611/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Linked List
 |  |
@@ -118,6 +119,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mdfaizjamal611/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/mdfaizjamal611/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1777-determine-if-two-strings-are-close](https://github.com/mdfaizjamal611/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mdfaizjamal611/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Stack
@@ -191,10 +193,12 @@
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/mdfaizjamal611/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1777-determine-if-two-strings-are-close](https://github.com/mdfaizjamal611/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0169-majority-element) |
+| [1777-determine-if-two-strings-are-close](https://github.com/mdfaizjamal611/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
