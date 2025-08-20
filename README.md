@@ -19,6 +19,7 @@
 | [0682-baseball-game](https://github.com/mdfaizjamal611/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mdfaizjamal611/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/mdfaizjamal611/LeetCode/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mdfaizjamal611/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0048-rotate-image) |
+| [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdfaizjamal611/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mdfaizjamal611/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -167,6 +170,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/mdfaizjamal611/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mdfaizjamal611/LeetCode/tree/master/0735-asteroid-collision) |
+| [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mdfaizjamal611/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
@@ -222,4 +226,8 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/mdfaizjamal611/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
