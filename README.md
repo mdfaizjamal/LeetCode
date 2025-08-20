@@ -23,6 +23,7 @@
 | [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
 | [0943-sum-of-subarray-minimums](https://github.com/mdfaizjamal611/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
+| [1039-find-the-town-judge](https://github.com/mdfaizjamal611/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/mdfaizjamal611/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -49,6 +50,7 @@
 | [0141-linked-list-cycle](https://github.com/mdfaizjamal611/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/mdfaizjamal611/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0169-majority-element) |
+| [1039-find-the-town-judge](https://github.com/mdfaizjamal611/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mdfaizjamal611/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Linked List
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/mdfaizjamal611/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/mdfaizjamal611/LeetCode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
