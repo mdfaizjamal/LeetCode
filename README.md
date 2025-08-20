@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mdfaizjamal611/LeetCode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/mdfaizjamal611/LeetCode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mdfaizjamal611/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/mdfaizjamal611/LeetCode/tree/master/0066-plus-one) |
@@ -293,4 +294,8 @@
 |  |
 | ------- |
 | [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/mdfaizjamal611/LeetCode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/mdfaizjamal611/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
