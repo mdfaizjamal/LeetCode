@@ -28,6 +28,7 @@
 | [1039-find-the-town-judge](https://github.com/mdfaizjamal611/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/mdfaizjamal611/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mdfaizjamal611/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mdfaizjamal611/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mdfaizjamal611/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1751-slowest-key](https://github.com/mdfaizjamal611/LeetCode/tree/master/1751-slowest-key) |
@@ -43,6 +44,7 @@
 | [0048-rotate-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0048-rotate-image) |
 | [0382-linked-list-random-node](https://github.com/mdfaizjamal611/LeetCode/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/mdfaizjamal611/LeetCode/tree/master/1013-fibonacci-number) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mdfaizjamal611/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Matrix
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0169-majority-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0169-majority-element) |
 | [1039-find-the-town-judge](https://github.com/mdfaizjamal611/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mdfaizjamal611/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mdfaizjamal611/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mdfaizjamal611/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mdfaizjamal611/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -265,6 +268,7 @@
 | ------- |
 | [0136-single-number](https://github.com/mdfaizjamal611/LeetCode/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mdfaizjamal611/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -274,4 +278,8 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/mdfaizjamal611/LeetCode/tree/master/1039-find-the-town-judge) |
+## Prefix Sum
+|  |
+| ------- |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mdfaizjamal611/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 <!---LeetCode Topics End-->
