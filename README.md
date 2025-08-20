@@ -21,6 +21,7 @@
 | [0792-binary-search](https://github.com/mdfaizjamal611/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
+| [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/mdfaizjamal611/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mdfaizjamal611/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
@@ -179,6 +180,7 @@
 | [0088-merge-sorted-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
+| [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/mdfaizjamal611/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 ## Counting
 |  |
 | ------- |
