@@ -30,6 +30,7 @@
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mdfaizjamal611/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mdfaizjamal611/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/mdfaizjamal611/LeetCode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mdfaizjamal611/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1751-slowest-key](https://github.com/mdfaizjamal611/LeetCode/tree/master/1751-slowest-key) |
 | [1760-check-array-formation-through-concatenation](https://github.com/mdfaizjamal611/LeetCode/tree/master/1760-check-array-formation-through-concatenation) |
@@ -94,6 +95,7 @@
 | [0035-search-insert-position](https://github.com/mdfaizjamal611/LeetCode/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/mdfaizjamal611/LeetCode/tree/master/0792-binary-search) |
+| [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/mdfaizjamal611/LeetCode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 | [0136-single-number](https://github.com/mdfaizjamal611/LeetCode/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mdfaizjamal611/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/mdfaizjamal611/LeetCode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -284,4 +287,8 @@
 |  |
 | ------- |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mdfaizjamal611/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+## Segment Tree
+|  |
+| ------- |
+| [1645-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/mdfaizjamal611/LeetCode/tree/master/1645-find-a-value-of-a-mysterious-function-closest-to-target) |
 <!---LeetCode Topics End-->
