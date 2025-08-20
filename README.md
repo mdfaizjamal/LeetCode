@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/mdfaizjamal611/LeetCode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdfaizjamal611/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/mdfaizjamal611/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0169-majority-element) |
 | [0300-longest-increasing-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/mdfaizjamal611/LeetCode/tree/master/0682-baseball-game) |
@@ -252,6 +253,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mdfaizjamal611/LeetCode/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
 ## Monotonic Stack
 |  |
