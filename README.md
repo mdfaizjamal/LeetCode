@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0169-majority-element) |
 | [0300-longest-increasing-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/mdfaizjamal611/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mdfaizjamal611/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/mdfaizjamal611/LeetCode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
@@ -113,6 +114,7 @@
 | [0020-valid-parentheses](https://github.com/mdfaizjamal611/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mdfaizjamal611/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdfaizjamal611/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0682-baseball-game](https://github.com/mdfaizjamal611/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mdfaizjamal611/LeetCode/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mdfaizjamal611/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Reservoir Sampling
@@ -163,6 +165,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/mdfaizjamal611/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mdfaizjamal611/LeetCode/tree/master/0735-asteroid-collision) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mdfaizjamal611/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Sorting
