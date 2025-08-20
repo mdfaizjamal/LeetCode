@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/mdfaizjamal611/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mdfaizjamal611/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/mdfaizjamal611/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdfaizjamal611/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdfaizjamal611/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,6 +45,7 @@
 | [0007-reverse-integer](https://github.com/mdfaizjamal611/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/mdfaizjamal611/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/mdfaizjamal611/LeetCode/tree/master/0066-plus-one) |
 | [0382-linked-list-random-node](https://github.com/mdfaizjamal611/LeetCode/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/mdfaizjamal611/LeetCode/tree/master/1013-fibonacci-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mdfaizjamal611/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
