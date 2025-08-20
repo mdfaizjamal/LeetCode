@@ -26,6 +26,7 @@
 | [1039-find-the-town-judge](https://github.com/mdfaizjamal611/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/mdfaizjamal611/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1628-count-submatrices-with-all-ones](https://github.com/mdfaizjamal611/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/mdfaizjamal611/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Math
@@ -42,6 +43,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
+| [1628-count-submatrices-with-all-ones](https://github.com/mdfaizjamal611/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [0735-asteroid-collision](https://github.com/mdfaizjamal611/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/mdfaizjamal611/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mdfaizjamal611/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1628-count-submatrices-with-all-ones](https://github.com/mdfaizjamal611/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -229,6 +232,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/mdfaizjamal611/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/mdfaizjamal611/LeetCode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1628-count-submatrices-with-all-ones](https://github.com/mdfaizjamal611/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Memoization
 |  |
 | ------- |
@@ -253,6 +257,7 @@
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/mdfaizjamal611/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1628-count-submatrices-with-all-ones](https://github.com/mdfaizjamal611/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Graph
 |  |
 | ------- |
