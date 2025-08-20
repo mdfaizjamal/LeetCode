@@ -100,6 +100,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mdfaizjamal611/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/mdfaizjamal611/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1250-longest-common-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/mdfaizjamal611/LeetCode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
