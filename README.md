@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mdfaizjamal611/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/mdfaizjamal611/LeetCode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdfaizjamal611/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0169-majority-element) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mdfaizjamal611/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/mdfaizjamal611/LeetCode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mdfaizjamal611/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
@@ -215,6 +217,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mdfaizjamal611/LeetCode/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/mdfaizjamal611/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
