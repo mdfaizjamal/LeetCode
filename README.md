@@ -25,6 +25,7 @@
 | [0198-house-robber](https://github.com/mdfaizjamal611/LeetCode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/mdfaizjamal611/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mdfaizjamal611/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/mdfaizjamal611/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/mdfaizjamal611/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/mdfaizjamal611/LeetCode/tree/master/0792-binary-search) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdfaizjamal611/LeetCode/tree/master/0011-container-with-most-water) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mdfaizjamal611/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mdfaizjamal611/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1762-furthest-building-you-can-reach](https://github.com/mdfaizjamal611/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
@@ -215,6 +217,7 @@
 | [0015-3sum](https://github.com/mdfaizjamal611/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mdfaizjamal611/LeetCode/tree/master/0169-majority-element) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mdfaizjamal611/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/mdfaizjamal611/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -255,6 +258,7 @@
 | [0198-house-robber](https://github.com/mdfaizjamal611/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mdfaizjamal611/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0943-sum-of-subarray-minimums](https://github.com/mdfaizjamal611/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/mdfaizjamal611/LeetCode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/1250-longest-common-subsequence) |
