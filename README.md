@@ -33,6 +33,7 @@
 | [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
 | [0943-sum-of-subarray-minimums](https://github.com/mdfaizjamal611/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
+| [0985-bag-of-tokens](https://github.com/mdfaizjamal611/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1039-find-the-town-judge](https://github.com/mdfaizjamal611/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/mdfaizjamal611/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -129,6 +130,7 @@
 | [0647-palindromic-substrings](https://github.com/mdfaizjamal611/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0985-bag-of-tokens](https://github.com/mdfaizjamal611/LeetCode/tree/master/0985-bag-of-tokens) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Greedy
@@ -137,6 +139,7 @@
 | [0011-container-with-most-water](https://github.com/mdfaizjamal611/LeetCode/tree/master/0011-container-with-most-water) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mdfaizjamal611/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mdfaizjamal611/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0985-bag-of-tokens](https://github.com/mdfaizjamal611/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1762-furthest-building-you-can-reach](https://github.com/mdfaizjamal611/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 ## String
@@ -226,6 +229,7 @@
 | [0347-top-k-frequent-elements](https://github.com/mdfaizjamal611/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mdfaizjamal611/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
+| [0985-bag-of-tokens](https://github.com/mdfaizjamal611/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/mdfaizjamal611/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1464-reduce-array-size-to-the-half](https://github.com/mdfaizjamal611/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mdfaizjamal611/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
