@@ -56,6 +56,7 @@
 | [0048-rotate-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/mdfaizjamal611/LeetCode/tree/master/0066-plus-one) |
 | [0382-linked-list-random-node](https://github.com/mdfaizjamal611/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0556-next-greater-element-iii](https://github.com/mdfaizjamal611/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/mdfaizjamal611/LeetCode/tree/master/1013-fibonacci-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mdfaizjamal611/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Matrix
@@ -128,6 +129,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mdfaizjamal611/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mdfaizjamal611/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0556-next-greater-element-iii](https://github.com/mdfaizjamal611/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/mdfaizjamal611/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0861-flipping-an-image](https://github.com/mdfaizjamal611/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/mdfaizjamal611/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -151,6 +153,7 @@
 | [0012-integer-to-roman](https://github.com/mdfaizjamal611/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/mdfaizjamal611/LeetCode/tree/master/0020-valid-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/mdfaizjamal611/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/mdfaizjamal611/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/mdfaizjamal611/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mdfaizjamal611/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
