@@ -57,6 +57,7 @@
 | [0066-plus-one](https://github.com/mdfaizjamal611/LeetCode/tree/master/0066-plus-one) |
 | [0382-linked-list-random-node](https://github.com/mdfaizjamal611/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0556-next-greater-element-iii](https://github.com/mdfaizjamal611/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0935-orderly-queue](https://github.com/mdfaizjamal611/LeetCode/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/mdfaizjamal611/LeetCode/tree/master/1013-fibonacci-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/mdfaizjamal611/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Matrix
@@ -156,6 +157,7 @@
 | [0556-next-greater-element-iii](https://github.com/mdfaizjamal611/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/mdfaizjamal611/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/mdfaizjamal611/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0935-orderly-queue](https://github.com/mdfaizjamal611/LeetCode/tree/master/0935-orderly-queue) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mdfaizjamal611/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/mdfaizjamal611/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/mdfaizjamal611/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -235,6 +237,7 @@
 | [0347-top-k-frequent-elements](https://github.com/mdfaizjamal611/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/mdfaizjamal611/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0917-boats-to-save-people](https://github.com/mdfaizjamal611/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0935-orderly-queue](https://github.com/mdfaizjamal611/LeetCode/tree/master/0935-orderly-queue) |
 | [0948-sort-an-array](https://github.com/mdfaizjamal611/LeetCode/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/mdfaizjamal611/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/mdfaizjamal611/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
